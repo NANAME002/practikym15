@@ -21,6 +21,7 @@ namespace ConsoleApp6
             {
                 Console.WriteLine(number);
             }
+Console.ReadKey();
         }
 
         
